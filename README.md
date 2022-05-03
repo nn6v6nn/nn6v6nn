@@ -1,8 +1,8 @@
-### 大家好 👋
+### Hi Everyone 👋
 
-我是 nn6v6nn ，目前专注于区块链开发，同时也是一个全栈开发者.
+I am  nn6v6nn，Focus on Web3 & Blockchain Develop, Also a full-stack developer .
 
-联系我可以通过 [Gmail](mailto:nn6v6nn@gmail.com) 或者 [Twitter](https://twitter.com/nn6v6nn)
+[Gmail](mailto:nn6v6nn@gmail.com) | [Twitter](https://twitter.com/nn6v6nn)
 
 <!--
 **nn6v6nn/nn6v6nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
