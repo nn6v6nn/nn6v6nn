@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-I am  nn6v6nn，Focus on Web3 & Blockchain Develop, Also a full-stack developer .
+I am  nn6v6nn，a full-stack developer .
 
 [Gmail](mailto:nn6v6nn@gmail.com) | [Twitter](https://twitter.com/nn6v6nn)
 
